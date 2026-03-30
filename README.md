@@ -1,7 +1,6 @@
 ## Hey, I'm Tobi👋
 
-# 💫 About Me:
-<br>Learning by building<br>Real-world systems > Theory<br>Sustainable Design + Software<br>Exploring computer vision through projects<br>Made in Nigeria.
+<br>💻Learning by building<br>⚙️Real-world systems > Theory<br>🌱Sustainable Design + Software<br>🤖Exploring computer vision through projects<br>Made in Nigeria.
 
 
 ## 🌐 Socials:
