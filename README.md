@@ -1,4 +1,4 @@
-## Hey, I'm Tobi👋
+## Hey, I'm Tobi🏌🏽‍♂️
 
 <br>💻Learning by building<br>⚙️Real-world systems > Theory<br>🌱Sustainable Design + Software<br>🤖Exploring computer vision through projects<br>Made in Nigeria.
 
